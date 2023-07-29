@@ -1,0 +1,40 @@
+{
+	"id": 3773,
+	"name": "Flag of Mongolia",
+	"description": "Flag of the country of Mongolia, a nation in Northern Asia between Russia and China. Was originally much smaller than the final version, but eventually expanded to what it is now. There was originally another Mongolian flag to the left of it, but this is where it was relocated and that space is now occupied by the Philippine flag.\nEnerel<3",
+	"links": {
+		"subreddit": [
+			"mongolia"
+		]
+	},
+	"path": {
+		"217-256": [
+			[
+				28,
+				-694
+			],
+			[
+				53,
+				-694
+			],
+			[
+				53,
+				-674
+			],
+			[
+				28,
+				-674
+			],
+			[
+				28,
+				-684
+			]
+		]
+	},
+	"center": {
+		"217-256": [
+			41,
+			-684
+		]
+	}
+}
